@@ -14,3 +14,7 @@ Java or BigData interview
 ### 大数据知识点
 [大数据知识点](https://github.com/oeljeklaus-you/JavaOrBigData-Interview/blob/master/大数据篇.pdf)
 ## 以后将会不定期更新，如果错误欢迎pull 
+##  微信公总号
+更多知识，请关注微信公众号:*程序猿技术*
+
+![程序猿技术](https://github.com/oeljeklaus-you/UserActionAnalyzePlatform/blob/master/2019_02_22_1933083452.png)
